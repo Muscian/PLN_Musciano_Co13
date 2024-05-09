@@ -3,3 +3,4 @@
 
  ## Índice de desafios
  - [Desafio 1](desafios/Desafio_1.ipynb)
+ - [Desafio 2](desafios/Desafio_2.ipynb)
