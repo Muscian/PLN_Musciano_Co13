@@ -1,2 +1,6 @@
 
 desafios/data/d4/glove_embeddings.txt
+desafios/models/bert_sent_classifier.keras
+desafios/models/bert_sent_classifier2.keras
+desafios/models/bert_sent_classifier2w.keras
+desafios/models/bert_sent_classifierw.keras
